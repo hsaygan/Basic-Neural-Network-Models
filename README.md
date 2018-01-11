@@ -1,4 +1,4 @@
-# Basic-Neural-Network-Models
+# Neural Network Models
 My attempt of creating neural network models for traditional databases. All of the implementation is in [TensorFlow](https://www.tensorflow.org/), along with other libraries like Numpy, SciPy etc.
 
 ### Databases:
