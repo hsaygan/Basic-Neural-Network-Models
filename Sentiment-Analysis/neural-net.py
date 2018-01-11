@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-from create_sentiment_featuresets import create_feature_sets_and_labels
+from create-sentiment-featuresets import create_feature_sets_and_labels
 
 train_x, train_y, test_x, test_y = create_feature_sets_and_labels('pos.txt', 'neg.txt')
 
